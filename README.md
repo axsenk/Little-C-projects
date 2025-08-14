@@ -1,0 +1,1 @@
+These are my little C programms most of them have been done as exercises during my learning but not all some others have been done by me alone notably quadratic equation solver and more coming soon after I get better in C
